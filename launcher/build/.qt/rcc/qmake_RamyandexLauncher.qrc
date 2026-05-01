@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RamyandexLauncher">
+    <file alias="qmldir">/home/ram/ramyandex/launcher/build/RamyandexLauncher/qmldir</file>
+  </qresource>
+</RCC>
+

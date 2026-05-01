@@ -1,0 +1,6 @@
+module RamyandexLauncher
+typeinfo launcher.qmltypes
+prefer :/qt/qml/RamyandexLauncher/
+Main 1.0 qml/Main.qml
+depends QtQuick
+

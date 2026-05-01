@@ -1,0 +1,14 @@
+-rootPath
+/home/ram/ramyandex/launcher
+-cmake-output
+-output-file
+/home/ram/ramyandex/launcher/build/.qt/qml_imports/launcher_build.cmake
+-importPath
+/home/ram/ramyandex/launcher/build
+-importPath
+/home/ram/ramyandex/launcher/build/RamyandexLauncher
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/ram/ramyandex/launcher/build/.qt/rcc/qmake_RamyandexLauncher.qrc
+/home/ram/ramyandex/launcher/build/.qt/rcc/launcher_raw_qml_0.qrc

@@ -1,0 +1,5 @@
+--resource
+/home/ram/ramyandex/launcher/build/.qt/rcc/qmake_RamyandexLauncher.qrc
+--resource
+/home/ram/ramyandex/launcher/build/.qt/rcc/launcher_raw_qml_0.qrc
+/qt/qml/RamyandexLauncher/qml/Main.qml

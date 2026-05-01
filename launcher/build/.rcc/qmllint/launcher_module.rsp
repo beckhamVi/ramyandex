@@ -1,0 +1,14 @@
+-I
+/home/ram/ramyandex/launcher/build
+-I
+/home/ram/ramyandex/launcher/build/RamyandexLauncher
+-I
+/home/ram/ramyandex/launcher/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/ram/ramyandex/launcher/build/.qt/rcc/qmake_RamyandexLauncher.qrc
+--resource
+/home/ram/ramyandex/launcher/build/.qt/rcc/launcher_raw_qml_0.qrc
+--module
+RamyandexLauncher
